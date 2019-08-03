@@ -12,3 +12,5 @@ function register_session(){
 add_action('init','register_session');
 
 paste these code in your themes function.php file so it will manage admin options and session.
+
+if you want to run on localhost i have uploaded zip file with database 

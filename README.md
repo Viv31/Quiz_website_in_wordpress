@@ -1,5 +1,7 @@
 # Quiz_website_in_wordpress
 Quiz website with multiple category in wordpress 
+create template folder in your theme and paste all files.
+
 require get_template_directory() . '/template/admin_options.php';
 
 /*  Register Session */
